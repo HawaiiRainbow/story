@@ -5,6 +5,10 @@
     <variables></variables>
     <build-profile instance="osb">
         <variables>
+            <algolia-id>BYRQF557B0</algolia-id>
+            <algolia-index>WS</algolia-index>
+            <algolia-api-key>d82d16b9f32063e849b6c21fabd6c807</algolia-api-key>
+            <web-root>https://hawaiirainbow.github.io/story</web-root>
             <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
