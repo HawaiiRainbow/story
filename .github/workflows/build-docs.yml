@@ -5,6 +5,10 @@ on:
     branches: ["master"]
   workflow_dispatch:
 
+permissions:
+  id-token: write
+  pages: write
+
 env:
   INSTANCE: 'Writerside/osb'
   ARTIFACT: 'webHelpOSB2-all.zip'
