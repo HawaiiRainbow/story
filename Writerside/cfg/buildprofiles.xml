@@ -2,6 +2,7 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
+    <sitemap priority="0.35" change-frequency="daily"/>
     <variables></variables>
     <build-profile instance="osb">
         <variables>
@@ -9,7 +10,7 @@
             <algolia-index>WS</algolia-index>
             <algolia-api-key>d82d16b9f32063e849b6c21fabd6c807</algolia-api-key>
             <web-root>https://hawaiirainbow.github.io/story</web-root>
-            <noindex-content>true</noindex-content>
+            <noindex-content>false</noindex-content>
         </variables>
     </build-profile>
 
