@@ -6,5 +6,15 @@
                  name="Our Story Begins"
                  start-page="first.md">
 
-    <toc-element topic="first.md"/>
+    <toc-element topic="first.md">
+        <toc-element topic="Play-with-semantic-attributes.md"/>
+        <toc-element topic="Add-math-formulas.md"/>
+        <toc-element topic="Quickly-add-images-links-and-tables.md"/>
+        <toc-element topic="Add-semantic-elements-to-Markdown.md"/>
+        <toc-element topic="Reuse-content.md"/>
+        <toc-element topic="Default-topic.md"/>
+        <toc-element topic="Add-Mermaid-diagrams.md"/>
+        <toc-element topic="Convert-Markdown-to-XML.md"/>
+        <toc-element topic="second-instance.md"/>
+    </toc-element>
 </instance-profile>
